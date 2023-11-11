@@ -1,4 +1,4 @@
 # 1st
 1st Git Repository
 
-Author = Zuhrat
+Author = Zuhrat Wardh
